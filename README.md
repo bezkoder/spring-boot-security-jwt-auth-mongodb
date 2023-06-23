@@ -18,6 +18,8 @@ You can have an overview of our Spring Boot Server with the diagram below:
 For more detail, please visit:
 > [Spring Boot, MongoDB: JWT Authentication with Spring Security](https://bezkoder.com/spring-boot-jwt-auth-mongodb/)
 
+> [Using HttpOnly Cookie](https://www.bezkoder.com/spring-boot-mongodb-login-example/)
+
 Working with Front-end:
 > [Vue](https://www.bezkoder.com/jwt-vue-vuex-authentication/)
 
@@ -31,6 +33,16 @@ More Practice:
 > [Spring Boot MongoDB Pagination & Filter example](https://www.bezkoder.com/spring-boot-mongodb-pagination/)
 
 > [Spring Boot + GraphQL + MongoDB example](https://www.bezkoder.com/spring-boot-graphql-mongodb-example-graphql-java/)
+
+> [Spring Boot Repository Unit Test with @DataJpaTest](https://bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/)
+
+> [Spring Boot Rest Controller Unit Test with @WebMvcTest](https://www.bezkoder.com/spring-boot-webmvctest/)
+
+> Validation: [Spring Boot Validate Request Body](https://www.bezkoder.com/spring-boot-validate-request-body/)
+
+> Documentation: [Spring Boot and Swagger 3 example](https://www.bezkoder.com/spring-boot-swagger-3/)
+
+> Caching: [Spring Boot Redis Cache example](https://www.bezkoder.com/spring-boot-redis-cache-example/)
 
 Fullstack:
 > [Vue.js + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-vue-mongodb/)
@@ -46,6 +58,10 @@ Fullstack:
 > [Angular 13 + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-13-spring-boot-mongodb/)
 
 > [Angular 14 + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-14-mongodb/)
+
+> [Angular 15 + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-15-mongodb/)
+
+> [Angular 16 + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-16-mongodb/)
 
 > [React + Spring Boot + MongoDB example](https://www.bezkoder.com/react-spring-boot-mongodb/)
 
